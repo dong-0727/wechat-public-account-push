@@ -22,7 +22,7 @@ export const config = {
     // 在一起的日子，格式同上
     loveDate: "2020-05-28",
     // 结婚纪念日
-    marryDate: ""
+    marryDate: "2030-05-28"
     }
 
 // {{date.DATA}}  
