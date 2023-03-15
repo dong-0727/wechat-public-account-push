@@ -11,9 +11,9 @@ export const config = {
      
     // 信息配置
     // 所在省份
-    province: "山西",
+    province: "甘肃",
     // 所在城市
-    city: "晋中",
+    city: "天水",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "安老师", "year": "2001", "date": "02-24", "type": 'new'},
